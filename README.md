@@ -1,7 +1,7 @@
 ### CS50W Project 0
 Web Programming with Python and JavaScript
 
-# My project is a website of a PC showcase called Joel's PC Showcase. The website contain four HTML pages:
+# My project is a website of a PC showcase called Joel's PC Showcase. The website contains four HTML pages:
 - home.html: The main page of the website
 - pcs.html: Showcases 4 great PC's in the market
 - about.html: Gives a brief info about Joel's PC showcase
